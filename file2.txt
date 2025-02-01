@@ -1,0 +1,1 @@
+this is second file using nano editor "file2.txt"
